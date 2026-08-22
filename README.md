@@ -122,7 +122,7 @@ CampusAIV3/
 
 ```bash
 # Proje klasörüne gir
-cd CampusAIV3
+cd CampusAI
 
 # Sanal ortam oluştur (macOS / Linux)
 python3 -m venv venv
