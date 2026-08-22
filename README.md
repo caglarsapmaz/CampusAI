@@ -139,7 +139,7 @@ pip install -r requirements.txt
 ## ▶️ Uygulamayı Çalıştırma
 
 ```bash
-python app.py
+streamlit run app.py
 ```
 
 Uygulama başlatıldıktan sonra terminalde gösterilen yerel adres üzerinden web arayüzüne erişilebilir.
