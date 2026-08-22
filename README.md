@@ -205,10 +205,6 @@ CampusAI'nin amacı, üniversite öğrencilerinin farklı akademik belgeler aras
 
 > **CampusAI — Üniversite belgelerinizi anlayan akademik asistan.**
 
-## 📄 Lisans
-
-Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır — dilediğiniz gibi kullanabilir, değiştirebilir ve dağıtabilirsiniz.
-
 ---
 
 <p align="center">Made with ❤️ by <a href="https://www.linkedin.com/in/caglarsapmaz/">caglarsapmaz</a></p>
