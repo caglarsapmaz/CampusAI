@@ -122,7 +122,7 @@ CampusAIV3/
 
 ```bash
 # Proje klasörüne gir
-cd CampusAIV3
+cd CampusAI
 
 # Sanal ortam oluştur (macOS / Linux)
 python3 -m venv venv
@@ -139,7 +139,7 @@ pip install -r requirements.txt
 ## ▶️ Uygulamayı Çalıştırma
 
 ```bash
-python app.py
+streamlit run app.py
 ```
 
 Uygulama başlatıldıktan sonra terminalde gösterilen yerel adres üzerinden web arayüzüne erişilebilir.
