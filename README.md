@@ -129,7 +129,7 @@ python3 -m venv venv
 source venv/bin/activate
 
 # Sanal ortam oluştur (Windows)
-python -m venv venv
+source venv/bin/activate
 venv\Scriptsctivate
 
 # Gerekli paketleri yükle
